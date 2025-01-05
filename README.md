@@ -32,12 +32,12 @@ A sleek and simple ToDo List application built with React. Manage your tasks wit
 
 1. Clone the repo:
    ```bash
-   git clone 
+   git clone https://github.com/Poueeerr/ToDoListReact.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd todo-list-app
+   cd ToDoListReact
    ```
 
 3. Install dependencies:
